@@ -1,0 +1,42 @@
+#
+# file: cargrp.dat
+# description: For each type of ped (worker, clubber etc) we maintain a list of the cars they might drive.
+# This list is used to pick cars in a very similar way we pick peds.
+#
+	  
+
+burrito, benson, taxi, coach, packer, yankee, towtruck, sadler, bobcat, linerun, dft30, willard, mule, securica						#POPCYCLE_GROUP_WORKERS
+sunrise, premier, taxi, elegant, merit, huntley, benson, sentinel, emperor, stafford, landstal, washing, admiral, nebula									#POPCYCLE_GROUP_BUSINESS
+buffalo, taxi, sultan, club, topfun, rnchlure, tampa, alpha, phoenix, stretch, infernus, cheetah, comet, virgo, sandking, supergt, jester, elegy, broadway, euros, sadlshit, turismo		#POPCYCLE_GROUP_CLUBBERS
+sanchez, rancher, tractor, freeway, camper, sadler, bobcat, mesa, sadlshit, tornado, topfun, hermes, clover									#POPCYCLE_GROUP_FARMERS
+bfinject, glendale, mrwhoop, feltzer, windsor, bmx, mtbike, rumpo, previon, pcj600, cadrona, sunrise, yosemite, quad, primo, mesa, regina, bike, merit, savanna, blade, camper			
+#POPCYCLE_GROUP_BEACHFOLK 
+glendale, taxi, mtbike, washing, previon, pcj600, cadrona, yosemite, sunrise, primo, intruder, merit, sabre, remingtn, romero			#POPCYCLE_GROUP_PARKFOLK
+elegant, taxi, premier, cheetah, rnchlure, freeway, zr350, comet, fcr900, windsor, sultan, emperor, sentinel, stafford, huntley, landstal, euros, bullet, nebula				#POPCYCLE_GROUP_CASUAL_RICH
+sabre, fortune, intruder, primo, feltzer, previon, solair, cadrona, vincent, sunrise, club, moonbeam								#POPCYCLE_GROUP_CASUAL_AVERAGE
+esperant, majestic, blade, willard, clover, bike, hermes, stallion, bmx, oceanic, voodoo, savanna, tornado								#POPCYCLE_GROUP_CASUAL_POOR
+esperant, majestic								#POPCYCLE_GROUP_PROSTITUTES
+stallion, clover, sanchez, burrito, alpha, rumpo, rancher, remingtn	#POPCYCLE_GROUP_CRIMINALS
+caddy											#POPCYCLE_GROUP_GOLFERS
+yosemite, sweeper, stretch, dft30, securica						#POPCYCLE_GROUP_SERVANTS
+benson, washing, previon, admiral, taxi, solair, fortune, cadrona, vincent, sunrise, yosemite, emperor, packer, coach, yankee, burrito, dft30				#POPCYCLE_GROUP_AIRCREW
+taxi, bullet, buffalo, sandking, sadlshit, stretch, stafford, infernus, zr350, virgo, supergt, windsor, jester, elegy, broadway, phoenix, bfinject, rumpo, turismo				#POPCYCLE_GROUP_ENTERTAINERS
+burrito, benson, cabbie, petro, rdtrain, towtruck, sadler, bobcat, linerun, packer, yankee, regina, greenwoo, dft30, sadlshit, oceanic, mule, coach, yosemite				#POPCYCLE_GROUP_OUT_OF_TOWN_FACTORY
+sanchez, cabbie, freeway, sandking, linerun, petro, sadler, bobcat, mesa, voodoo, quad, regina, burrito, camper, greenwoo, rdtrain, tornado, sadlshit, topfun			#POPCYCLE_GROUP_DESERT_FOLK
+tug, baggage, stretch, petro, towtruck, forklift, dft30, securica																#POPCYCLE_GROUP_AIRCREW_RUNWAY
+majestic, tahoma				#Gang1(BALLAS-BLACK)
+admiral, sunrise					#Gang2(FAMILIES-PLAYER-BLACK)
+oceanic, tornado					#Gang3(LSV-MEX)
+stallion, blade						#Gang4(SFR-MEX)
+tampa						#Gang5(DNB-VIETS)
+sentinel				#Gang6(ITALIANMAFIA)
+sultan, elegy				#Gang7(TRIAD)
+hermes, esperant				#Gang8(VLA-MEX)
+sentinel							#Gang9(UNUSED)
+sentinel							#Gang10(UNUSED)
+rnchlure, tampa							#Dealers
+squalo, speeder, reefer, tropic, coastg, dinghy, marquis, jetmax																#Boats
+clover, previon, rumpo, glendale, oceanic, hermes, virgo, greenwoo, buccanee, willard, remingtn, hustler, intruder, broadway, tornado, primo, tampa, savanna		#Cheat1(shitcars)
+buffalo, infernus, cheetah, banshee, turismo, zr350, comet, supergt, bullet, uranus, jester, sultan, elegy, flash, euros, club, phoenix								#Cheat2(fastcars)
+pcj600, fcr900, bf400																						#Cheat3(ninja)
+tug, bfinject, caddy, bandito, kart																				#Cheat4(funhouse)
